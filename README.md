@@ -6,7 +6,7 @@ Wipers are designed and manufactured to remove water from a windshield. Most aut
 
 # BADGES
 * Codiga - Static Analysis
-[![Quality](https://api.codiga.io/project/33313/score/svg)
+![Quality](https://api.codiga.io/project/33313/score/svg)
 * Code quality
 [![CodeQL](https://github.com/Stephenj071/M3_Wiper_Control_System/actions/workflows/c-ccpp.yml/badge.svg?branch=main)](https://github.com/Stephenj071/M3_Wiper_Control_System/actions/workflows/c-ccpp.yml)
 * Codacy
